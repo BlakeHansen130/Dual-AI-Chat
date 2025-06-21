@@ -204,7 +204,7 @@ python -c "from dotenv import load_dotenv; load_dotenv(); import os; print(os.ge
 
 ## 📄 许可证
 
-MIT License
+[MIT License](./LICENSE)
 
 ## 🙏 致谢
 
